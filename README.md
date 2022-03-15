@@ -1,7 +1,7 @@
-👋 Hi, I’m @Synckk
-👀 I’m interested in Python And Website developement
-🌱 I’m currently learning Python
-📫 You can reach me by clicking on this image:
+👋 Hi, I’m @Synckk  
+👀 I’m interested in Python And Website developement  
+🌱 I’m currently learning Python  
+📫 You can reach me by clicking on this image:  
 [![discord](https://instagrow.nl/wp-content/uploads/2022/02/unnamed.png)](https://discord.gg/UCeNexdd3k)
 
 <!---
